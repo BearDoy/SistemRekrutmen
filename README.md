@@ -7,3 +7,8 @@ note*
 pastikan exampp atau laragon sudah aktih
 sesuaikan nama database di file.env 
 import database  
+
+
+akun admin
+username : tedi
+password : admin
